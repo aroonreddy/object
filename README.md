@@ -2,4 +2,7 @@
 hii
 lets see
 if its works
-allright
+allright 
+clear
+clear
+
